@@ -21,11 +21,11 @@ Air pollution is a persistent public health and environmental crisis in Delhi. G
 
 1. **Delhi Pollution Dataset**  
    Daily concentration values for pollutants (PM2.5, PM10, NO2, SO2, CO, NH3, O3, etc.)  
-   [[Source: Tumidata](https://hub.tumidata.org/dataset/air_quality_analysis_of_delhi_delhi)]
+   [Source: Tumidata](https://hub.tumidata.org/dataset/air_quality_analysis_of_delhi_delhi)
 
 2. **Delhi Weather Dataset**  
    Meteorological data including temperature, humidity, wind speed, pressure, etc.  
-   [[Source: Visual Crossing Weather Data](https://www.visualcrossing.com/weather-query-builder/)]
+   [Source: Visual Crossing Weather Data](https://www.visualcrossing.com/weather-query-builder/)
 
 ---
 
