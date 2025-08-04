@@ -26,9 +26,11 @@ Air pollution is a persistent public health and environmental crisis in Delhi. G
 2. **Delhi Weather Dataset**  
    Meteorological data including temperature, humidity, wind speed, pressure, etc.  
    [Source: Visual Crossing Weather Data](https://www.visualcrossing.com/weather-query-builder/)
-   
-3. **Changes in Dataset Identified During Assignment 16.1**
-   Kaggle – Air Quality Analysis of Delhi dataset mentioned in submission for Assignement 16.1 has not been used as the requirement of pollution and weather dataset has been met from thee above sources.   
+
+3. **Changes in Dataset Identified During Assignment 16.1**  
+   Kaggle – Air Quality Analysis of Delhi dataset mentioned in submission for Assignement 16.1 has not been used as the requirement of pollution and weather dataset has been met from thee above sources.     
+
+  
 ---
 
 ## Methodology
