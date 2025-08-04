@@ -102,10 +102,8 @@ Air pollution is a persistent public health and environmental crisis in Delhi. G
 
 | Notebook | Description |
 |----------|-------------|
-| [Link to Notebook 1](#) | Data loading, cleaning, merging, interpolation |
-| [Link to Notebook 2](#) | Exploratory Data Analysis (EDA), visualizations |
-| [Link to Notebook 3](#) | Model training, evaluation, cross-validation, and summary |
-
+| [Link to Notebook]([#](https://github.com/amitkushwaha2000/AIML_20.1_Capstone/blob/main/20.1%20Capstone_AK_AQI%20Prediction.ipynb)) | Jupyter Notebook for Assignment 20.1 Capstone Project |
+| [Link to Datasets]([#](https://github.com/amitkushwaha2000/AIML_20.1_Capstone/tree/main/data)) | delhi_pollution.csv and delhi_weather.csv |
 
 ---
 
